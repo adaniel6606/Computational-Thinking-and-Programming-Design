@@ -2,6 +2,7 @@
 大一校必修 - 運算思維與程式設計
 
 FB Messanger: Bigflower Francis
+
 Email: BigflowerFrancis@gmail.com
 
 [更新講義下載](https://is.gd/jB0BQE)

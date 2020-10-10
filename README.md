@@ -1,5 +1,5 @@
 # Computational-Thinking 
-109-1 運算思維與程式設計(校必修）
+109-1 運算思維與程式設計
 
 Email: BigflowerFrancis@gmail.com
 

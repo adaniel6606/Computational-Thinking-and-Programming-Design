@@ -1,11 +1,10 @@
-# Computational-Thinking
+# Computational-Thinking 
 大一校必修 - 運算思維與程式設計
 
-FB Messanger: Bigflower Francis
+[FB Messnager](https://www.facebook.com/bigflowertien)
 
-Email: BigflowerFrancis@gmail.com
 
-[更新講義下載](https://is.gd/jB0BQE)
+[上課講義下載](https://is.gd/jB0BQE)
 
 
 注意事項公告：

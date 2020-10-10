@@ -1,7 +1,7 @@
 # Computational-Thinking 
 大一校必修 - 運算思維與程式設計
 
-[FB Messnager](https://www.facebook.com/bigflowertien)
+[聯絡老師，請用FB Messnager](https://www.facebook.com/bigflowertien)
 
 
 [上課講義下載](https://is.gd/jB0BQE)

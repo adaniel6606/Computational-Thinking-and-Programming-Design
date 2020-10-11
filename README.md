@@ -1,4 +1,4 @@
-# Computational-Thinking 
+# Computational-Thinking-and-Programming-Design 
 109-1 運算思維與程式設計
 
 [上課講義下載](https://is.gd/jB0BQE)

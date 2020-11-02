@@ -18,7 +18,7 @@
 
 [**109-1經一甲課程進度**](https://colab.research.google.com/drive/12o0lvg5VuX6us_d0ofeU7xGlq7t0srE5)
 
-～修課同學：有事請聯絡BigflowerFranics@gmail.com信箱，歡迎自行加入或退出課程[FB社團](https://www.facebook.com/groups/314342339656097/)。
+～修課同學：有事請聯絡BigflowerFrancis@gmail.com信箱，歡迎自行加入或退出課程[FB社團](https://www.facebook.com/groups/314342339656097/)。
 
 
 ### Github使用說明
